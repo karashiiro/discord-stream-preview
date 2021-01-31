@@ -1,7 +1,7 @@
 # Discord Stream Preview API
 Microservice for grabbing the Go Live preview image from a user in an accessible server.
 
-**Requires a user bot token; use at your own risk.**
+**Requires a user bot token; use at your own risk. You will probably get banned if you use this too frequently.**
 
 Requires the following environment variables:
 
